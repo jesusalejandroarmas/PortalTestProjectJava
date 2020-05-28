@@ -6,6 +6,7 @@ public class ejemplo {
 
 	public static void main(String[] args) {
 		System.out.println("GIT HUB");
+		System.err.println("EJEMPLO");
 
 	}
 
